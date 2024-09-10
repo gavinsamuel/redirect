@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript">
+        window.location.href = "https://gavinsamuel.github.io/portfolio/";
+    </script>
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>If you are not redirected, <a href="https://gavinsamuel.github.io/portfolio/">click here</a>.</p>
+</body>
+</html>
